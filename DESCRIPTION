@@ -12,6 +12,8 @@ Suggests: testthat
 RoxygenNote: 7.2.3
 Roxygen: list(markdown = TRUE)
 LinkingTo: 
-    Rcpp
+    Rcpp,
+    RcppEigen
 Imports: 
-    Rcpp
+    Rcpp,
+    RcppEigen
