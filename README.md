@@ -1,3 +1,7 @@
+# forkinfo
+
+Forked to include support for RcppEigen.
+
 # vscode-rcpp-demo
 
 This project is a minimal example of writing and debugging [Rcpp](http://www.rcpp.org/) in VSCode.
